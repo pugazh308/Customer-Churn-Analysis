@@ -32,14 +32,18 @@ customer-churn-analysis
 Prerequisites
 
    -Python 3.x
+   
    -Jupyter Notebook (optional)
+   
    -Required libraries (listed in requirements.txt)
 
 Steps:
 
 -Install dependencies: 
        pip install -r requirements.txt
+       
 -Download the dataset
+
 -Execute the main script
        jupyter notebook main.ipynb
 
