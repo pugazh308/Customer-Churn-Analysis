@@ -40,11 +40,13 @@ Prerequisites
 Steps:
 
 -Install dependencies: 
+
        pip install -r requirements.txt
        
 -Download the dataset
 
 -Execute the main script
+
        jupyter notebook main.ipynb
 
 
