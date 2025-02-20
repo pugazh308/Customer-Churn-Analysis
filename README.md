@@ -1,9 +1,11 @@
 📊 Customer Churn Analysis in the Telecom Industry
 
 📌 Overview:
+
 This project focuses on analyzing customer churn in the telecom industry. The goal is to identify key factors influencing churn rates, understand customer behavior, and help businesses improve retention strategies. The analysis includes handling missing values, filtering inactive users, statistical summarization, categorical analysis, and data visualization.
 
 Abstact:
+
       Customer churn is a major challenge for telecom companies, as losing subscribers 
 directly affects revenue and growth. This project dives into analyzing why customers leave and 
 how businesses can improve retention. By examining key factors like customer tenure, 
@@ -16,6 +18,7 @@ reduce churn. Additionally, we explore predictive modeling techniques to identif
 churners early, allowing businesses to take proactive steps to retain them.
 
 🚀 Features:
+
 -Data preprocessing and cleaning
 -Handling missing values 
 -filtering inactive users
@@ -55,6 +58,6 @@ Steps:
 
 🛠 Technologies Used
 
-Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
+Python (Pandas, NumPy,  Matplotlib, Seaborn)
 
 
