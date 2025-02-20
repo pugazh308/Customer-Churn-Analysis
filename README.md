@@ -6,16 +6,7 @@ This project focuses on analyzing customer churn in the telecom industry. The go
 
 Abstact:
 
-      Customer churn is a major challenge for telecom companies, as losing subscribers 
-directly affects revenue and growth. This project dives into analyzing why customers leave and 
-how businesses can improve retention. By examining key factors like customer tenure, 
-recharge history, and contract type, we identify patterns that contribute to churn. We clean the 
-data by handling missing values and filtering out inactive users to ensure accurate insights. 
-Through statistical analysis, we explore churn rates across different plans, and with the help of 
-visualizations, we uncover trends in customer behavior. The goal is to provide telecom 
-companies with actionable insights to enhance customer satisfaction, refine service plans, and 
-reduce churn. Additionally, we explore predictive modeling techniques to identify potential 
-churners early, allowing businesses to take proactive steps to retain them.
+Customer churn is a major challenge for telecom companies, as losing subscribers directly affects revenue and growth. This project dives into analyzing why customers leave and how businesses can improve retention. By examining key factors like customer tenure, recharge history, and contract type, we identify patterns that contribute to churn. We clean the data by handling missing values and filtering out inactive users to ensure accurate insights. Through statistical analysis, we explore churn rates across different plans, and with the help of visualizations, we uncover trends in customer behavior. The goal is to provide telecom companies with actionable insights to enhance customer satisfaction, refine service plans, and reduce churn. Additionally, we explore predictive modeling techniques to identify potential churners early, allowing businesses to take proactive steps to retain them.
 
 🚀 Features:
 
@@ -36,6 +27,7 @@ churners early, allowing businesses to take proactive steps to retain them.
 🛠 Installation & Setup:
 
 Prerequisites
+
    -Python 3.x
    -Jupyter Notebook (optional)
    -Required libraries (listed in requirements.txt)
